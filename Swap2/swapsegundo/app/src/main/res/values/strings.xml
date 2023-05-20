@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swap!</string>
+
+    <string-array name="Moedas">
+        <item>BRL / Real Brasileiro</item>
+        <item>USD / Dólar</item>
+        <item>EUR / Euro</item>
+        <item>BTC / Bitcoin</item>
+    </string-array>
+
+</resources>
